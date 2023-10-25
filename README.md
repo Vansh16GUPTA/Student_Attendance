@@ -1,4 +1,4 @@
-# Student_Attendance
+# Student_Attendance code in python , 
 
+for simple attendance tracking . 
 
-akash test
